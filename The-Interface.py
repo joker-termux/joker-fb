@@ -45,7 +45,7 @@ if droid == "1":
     print (C +"Please Open New Session and Enter")            
     print (C +"                         The command---"+ Y +"{ "+ W +"msfconsole "+ Y +"}")
     print (" ")
-    print (R +"*"*54)                                                                               print (" ")
+    print (R +"*"*54)
     print (" ")
     input (G +"Enter BaCk... ")
     system('python joker-fb.py')
