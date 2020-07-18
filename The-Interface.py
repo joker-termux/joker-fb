@@ -29,7 +29,6 @@ system('sleep 0.1')
 print ( G +"["+ R +"9" + G +"]"+ W +"=="+ G +"["+ Y +"Upload Payload    "+ G +"]")
 system('sleep 0.1')
 print ( G +"["+ R +"10" + G +"]"+ W +"=="+ G +"["+ Y +"Password Android "+ G +"]")
-system('sleep 0.1')                                                                             print ( G +"["+ R +"11" + G +"]"+ W +"=="+ G +"["+ Y +"About "+ G +"           ]")
 system('sleep 0.1')                                                                             print ( G +"["+ R +"0" + G +"]"+ W +"=="+ G +"["+ Y +"Exit program      "+ G +"]")              
 print(" ")
 
