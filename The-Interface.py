@@ -52,7 +52,7 @@ if droid == "1":
 elif droid == "2":
     system('clear')
     print (G +"Downloading ...... ")
-    system('termux-open https://download844.mediafire.com/839hbkedq6kg/hqqdm6u76ol4mve/Port+For>
+    system('termux-open https://download844.mediafire.com/839hbkedq6kg/hqqdm6u76ol4mve/Port+Forwarder_v6.1_apkpure.com.apk')
     system('clear')
     print ("Please Go /sdcard/Download "+ Y +"Install App")
     print (R +"*"*54)
