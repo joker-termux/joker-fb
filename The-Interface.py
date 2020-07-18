@@ -28,8 +28,8 @@ print ( G +"["+ R +"8" + G +"]"+ W +"=="+ G +"["+ Y +"Exploit Windows   "+ G +"]
 system('sleep 0.1')
 print ( G +"["+ R +"9" + G +"]"+ W +"=="+ G +"["+ Y +"Upload Payload    "+ G +"]")
 system('sleep 0.1')
-print ( G +"["+ R +"10" + G +"]"+ W +"=="+ G +"["+ Y +"Password Android "+ G +"]")
-system('sleep 0.1')                                                                             print ( G +"["+ R +"0" + G +"]"+ W +"=="+ G +"["+ Y +"Exit program      "+ G +"]")              
+print ( G +"["+ R +"10" + G +"]"+ W +"=="+ G +"["+ Y +"Password Android "+ G +"]")            
+
 print(" ")
 
 droid=str(input(R +"              ●~"+ G +"Enter Number "+ R +"~》 "+ G))
